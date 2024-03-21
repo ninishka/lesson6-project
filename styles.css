@@ -1,0 +1,85 @@
+body {
+  background-color: #F5D3AB;
+  margin: 80px;
+}
+
+.mainwrapper {
+  display: flex;
+  flex-wrap: wrap;
+  width: 1300px;
+}
+
+.first-text {
+  font-family: Oswald;
+font-size: 16px;
+font-weight: 400;
+line-height: 32px;
+letter-spacing: 3px;
+text-align: left;
+
+}
+
+.main-text {
+  font-family: Ultra;
+font-size: 56px;
+font-weight: 700;
+line-height: 64px;
+text-align: left;
+width: 520px;
+}
+
+
+
+.pic {
+  width: 370px;
+  height: 320px;
+  background-color: gray;
+}
+
+.item_wrapper {
+  width: 370px;
+  height: 448px;
+  background-color: white;
+  margin: 20px;
+}
+
+.content {
+  padding: 0 20px;
+}
+
+.pic1 {
+  width: 770px;
+  height: 448px;
+  background-color: gray;
+}
+.content1 {
+  padding: 80px 30px;
+    margin: 0px 11px;
+    color: white;
+}
+
+
+
+.item_wrapper1 {
+  margin: 0px 6px;
+}
+
+.price-of-product {
+  float: right;
+  font-family: Ultra;
+  text-align: left;
+  color: black;
+
+}
+
+.row_content {
+  display: flex;
+  justify-content: space-between;
+}
+
+.button1 {
+  font-family: Ultra;
+  Width: 170px; 
+  Height: 48px;
+  margin: 19px 536px
+}
